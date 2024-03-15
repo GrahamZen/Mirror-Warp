@@ -1,0 +1,94 @@
+# Unreal Engine specific
+#######################
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.VC.db
+*.vsp
+*.vspscc
+*_opendb
+*.opendb
+*.xcodeproj
+*.xcworkspace
+*.swp
+*.bak
+*.log
+*.vs
+*.vscode
+*.DS_Store
+*.apk
+*.ipk
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.app
+*.ipa
+*.obb
+*.aar
+*.so
+*.dylib
+*.pak
+*.uprojectdirs
+*.uproject.user
+*.uvoptx
+*.uvguix.*
+
+# Shader bytecode cache
+#######################
+*.ushaderbytecode
+
+# Crashlytics generated files
+#############################
+crashlytics-build.properties
+
+# Visual Studio Code directories
+################################
+.vscode/
+
+# Rider directories
+###################
+.idea/
+
+# User-specific directories
+###########################
+Content/Browser/Thumbnails/
+
+# Auto-generated VS/MD/Consulo solution and project files
+#########################################################
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.mm.ipch
+*.cache
+*.VC.db
+
+# MonoDevelop Specific
+######################
+*.userprefs
+
+# Mac specific
+##############
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+ehthumbs.db
+Thumbs.db
